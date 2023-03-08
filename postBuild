@@ -1,1 +1,2 @@
+jupyter nbextension disable --sys-prefix --py jupyter_server_proxy
 jupyter serverextension enable --py nbgitpuller --sys-prefix
